@@ -12,5 +12,5 @@ it is using the crowd anki plugin: https://ankiweb.net/shared/info/1788670778
 
 ## to upload
 1. Select the deck (note: export of "All decks" is not supported, you need to select a specific deck) and the export format "CrowdAnki JSON representation". After pressing the Export button - select directory where the result should be stored.
-2. open a terminal in the folder which you downloaded and type "git commit -a -m "<your changes>", then type "git push origin main" (this last step will be refined at a later point and is a temporary solution)
+2. open a terminal in the folder which you downloaded and type "git commit -a -m "\<your changes>", then type "git push origin main" (this last step will be refined at a later point and is a temporary solution)
   
