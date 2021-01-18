@@ -22,8 +22,13 @@ to quicly make anki cards I highly recommend using math-pix https://mathpix.com 
 
 ## add ons
 these add-ons are highly recommended and can be found here: https://ankiweb.net/shared/addons/2.1
+
 auto ease factor (to get a more scientifically correct spacing algoritm)
+
 pdf viewer (always remember to link to kompendium or book you made the card from)
+
 frozen fields 
+
 hierarchical tags 2 (you should always hierarchically tag the card with book::chapter::subchapter, or lecture::date etc)
+
 image occlusion enhanced for anki 21 alpha
